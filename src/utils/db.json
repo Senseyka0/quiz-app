@@ -1,0 +1,276 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "Game Of Thrones",
+      "category": "Movies || Serials",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "John Snow",
+          "options": [
+            { "option": "John Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "The Family Guy",
+      "category": "movie || serials",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "The Simpsons",
+      "category": "movie || serials",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "What is the name of the main character in Game Of Thrones?",
+          "answer": "Jon Snow",
+          "options": [
+            { "option": "Jon Snow" },
+            { "option": "Cersei Lannister" },
+            { "option": "Tyrion Lannister" },
+            { "option": "Daenerys Targaryen" }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "title": "Movies & Serials",
+      "img": "https://img.freepik.com/premium-vector/realistic-cinema-poster-popcorn-bucket-clapperboard-movie-tape-and-reel-flying-popcorn-in-motion_208581-1714.jpg?w=2000"
+    },
+    {
+      "id": 2,
+      "title": "Anime",
+      "img": "https://image.shutterstock.com/image-illustration/anime-looking-beautyfull-sakura-260nw-1880559073.jpg"
+    },
+    {
+      "id": 3,
+      "title": "TV Series",
+      "img": "https://media.istockphoto.com/photos/service-screen-with-remote-control-in-hand-picture-id1174414266?k=20&m=1174414266&s=612x612&w=0&h=Hc1kRei1t8mY3kT7DY4X1bbMvf8mPLhh4IWj8xQaq3g="
+    },
+    {
+      "id": 4,
+      "title": "Cartoons",
+      "img": "https://i.pinimg.com/550x/98/c7/fa/98c7fa8911c2bb595e2b07a43c29a2d0.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Documentaries",
+      "img": "https://media.istockphoto.com/photos/your-storytext-title-on-film-slate-picture-id1200764952?k=20&m=1200764952&s=612x612&w=0&h=Vf2YYgddHpsg3A--rjc_8GQGJ7uDxuhHG1fAbJLjyoY="
+    },
+    {
+      "id": 6,
+      "title": "Music",
+      "img": "https://img.freepik.com/free-vector/musical-notes-pentagram-background-design_1017-31223.jpg?size=626&ext=jpg&ga=GA1.2.1183951154.1639612800"
+    },
+    {
+      "id": 7,
+      "title": "Sport",
+      "img": "https://handball.net.ua/abton/uploads/news/6665/1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Books",
+      "img": "https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Games",
+      "img": "https://static.bandicam.com/v/game-recorder/game-recorder-img.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Other",
+      "img": "data:image/jpeg;base64,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"
+    }
+  ]
+}
