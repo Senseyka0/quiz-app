@@ -8,7 +8,7 @@ import Settings from "./pages/Settings/Settings";
 
 const App = () => {
   return (
-    <div className="wrapper">
+    <div>
       <Header />
 
       <Routes>
