@@ -2,9 +2,9 @@ import { Route, Routes } from "react-router-dom";
 
 import Header from "./components/Header";
 
-import Home from "./Pages/Home/Home";
-import Quiz from "./Pages/Quiz/Quiz";
-import Settings from "./Pages/Settings/Settings";
+import Home from "./pages/Home/Home";
+import Quiz from "./pages/Quiz/Quiz";
+import Settings from "./pages/Settings/Settings";
 
 const App = () => {
   return (
