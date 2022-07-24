@@ -3,22 +3,22 @@ import styled from "styled-components";
 
 const Header = () => {
   return (
-    <Wrap>
+    <Wrapper>
       <Nav>
         <Logo>Quiz</Logo>
 
         <Link to="/">Home</Link>
         <Link to="/settings">Settings</Link>
-        <Link to="/quiz">Quiz</Link>
       </Nav>
-    </Wrap>
+    </Wrapper>
   );
 };
 
-const Wrap = styled.div`
+const Wrapper = styled.div`
   background-color: #282f43;
   padding: 15px 0;
 `;
+
 const Nav = styled.div`
   display: flex;
   justify-content: space-between;
