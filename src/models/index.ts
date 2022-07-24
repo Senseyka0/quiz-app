@@ -2,14 +2,20 @@ export interface IQuiz {
   id: number;
   title: string;
   category: ICategory;
-  questions: ICategory[];
+  questions: IQuestion[];
 }
 
-export interface ICategory {
+export interface IQuestion {
   id: number;
   question: string;
   answer: string;
   options: IOption[];
+}
+
+export interface ICategory {
+  id: number;
+  title: string;
+  img: string;
 }
 
 export interface IOption {

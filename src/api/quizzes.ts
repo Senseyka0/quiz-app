@@ -1,8 +1,15 @@
 import { axios } from "./axios";
 
-import { IQuiz } from "../models";
+import { IQuiz, ICategory } from "../models";
 
 const quizzes = {
+  getCategories: async () => {
+    const { data } = await axios.request<Promise<ICategory[]>>({
+      method: "GET",
+      url: "/categories",
+    });
+    return data;
+  },
   getQuizzes: async () => {
     const { data } = await axios.request<Promise<IQuiz[]>>({
       method: "GET",
