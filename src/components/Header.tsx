@@ -6,9 +6,10 @@ const Header = () => {
     <Wrapper>
       <Nav>
         <Logo>Quiz</Logo>
-
-        <Link to="/">Home</Link>
-        <Link to="/settings">Settings</Link>
+        <Links>
+          <Link to="/">Home</Link>
+          <Link to="/settings">Settings</Link>
+        </Links>
       </Nav>
     </Wrapper>
   );
@@ -27,6 +28,10 @@ const Nav = styled.div`
   margin: 0 auto;
 `;
 
+const Links = styled.div`
+  display: flex;
+`;
+
 const Logo = styled.p`
   font-size: 25px;
   font-weight: bold;
@@ -37,6 +42,10 @@ const Link = styled(NavLink)`
   text-decoration: none;
   font-size: 18px;
   color: #ffffff;
+
+  &:not(:last-child) {
+    margin-right: 15px;
+  }
 `;
 
 export default Header;
