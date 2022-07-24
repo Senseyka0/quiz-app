@@ -74,9 +74,9 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "The Family Guy",
-      "category": "movie || serials",
+      "category": "Movies || Serials",
       "questions": [
         {
           "id": 1,
@@ -147,9 +147,9 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "The Simpsons",
-      "category": "movie || serials",
+      "category": "Movies || Serials",
       "questions": [
         {
           "id": 1,
