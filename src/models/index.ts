@@ -1,11 +1,11 @@
 export interface IQuiz {
   id: number;
   title: string;
-  category: Category;
+  category: ICategory;
   questions: IQuestion[];
 }
 
-export type Category =
+export type ICategory =
   | "Movies & Serials"
   | "Anime"
   | "TV Series"
